@@ -1,0 +1,104 @@
+*{
+    background-color: black;
+}
+div.a{
+    text-align: center;
+    img{
+        border-radius: 50% ;
+        width:270x ;
+        height: 270px;
+    }
+}
+h1,h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: brown;
+}
+ 
+.b{ 
+    
+    display: flex; 
+    justify-content: center;
+    color: blueviolet;
+    h2{
+
+    color: blueviolet;
+    font-family :Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 50 ;
+    text-align: left;
+    }
+ 
+    img{
+        border-radius: 40% ;
+        width:370x ;
+        height: 370px;
+        margin-right: 100px; 
+        
+
+    }
+}
+.t{
+   
+    h2,h3{
+
+        color: blueviolet;
+        font-family :Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-weight: 50 ;
+        text-align: center;
+      
+        }
+}
+.f,.t,.o{
+    text-align: center;
+
+    h1{
+    color: #af7812;
+    }
+}
+
+    
+    
+.c{
+    
+    display: flex; 
+    justify-content: center;
+    color: blueviolet;
+   
+    table {
+        width: 80%; /* เปลี่ยนความกว้างของตาราง */
+     
+        margin: auto; /* จัดกลางตาราง */
+    }
+    th, td {
+        padding: 15px; /* เพิ่มพื้นที่ภายในเซลล์ */
+       
+        text-align: center; /* จัดข้อความตรงกลาง */
+    }
+    th {
+        background-color: #000000; /* สีพื้นหลังของหัวตาราง */
+    }
+    
+}
+   
+.g{
+    
+    display: flex; 
+    justify-content: center;
+    color: blueviolet;
+ 
+    table {
+        width: 80%; /* เปลี่ยนความกว้างของตาราง */
+     
+        margin: auto; /* จัดกลางตาราง */
+    }
+    th, td {
+        padding: 15px; /* เพิ่มพื้นที่ภายในเซลล์ */
+       
+        text-align: center; /* จัดข้อความตรงกลาง */
+    }
+    th {
+        background-color: #000000; /* สีพื้นหลังของหัวตาราง */
+    }
+    
+}
+
+
